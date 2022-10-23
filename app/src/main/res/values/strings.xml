@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">MainActivity</string>
+    <string name="btn_home_compute">Faire un calcul</string>
+    <string name="first_operand">First operand</string>
+    <string name="second_operand">Second operand</string>
+    <string name="btn_compute">compute</string>
+    <string name="result">"Result: "</string>
+    <string name="btn_home_sos">SOS</string>
+    <string name="btn_home_search">Search</string>
+    <string name="btn_home_share">Share</string>
+    <string name="btn_home_itinerary">Itinerary</string>
+    <string name="operation">Operation( ADD,SUBS,DIV,MULT)</string>
 </resources>

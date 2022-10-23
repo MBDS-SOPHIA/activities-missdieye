@@ -7,5 +7,34 @@
     android:padding="10dp"
     tools:context=".MainActivity">
 
+    <Button
+        android:id="@+id/btn_home_compute"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_home_compute" />
+
+    <Button
+        android:id="@+id/btn_home_sos"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_home_sos" />
+
+    <Button
+        android:id="@+id/btn_home_search"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_home_search" />
+
+    <Button
+        android:id="@+id/btn_home_share"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_home_share" />
+
+    <Button
+        android:id="@+id/btn_home_itinerary"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_home_itinerary" />
 
 </LinearLayout>
